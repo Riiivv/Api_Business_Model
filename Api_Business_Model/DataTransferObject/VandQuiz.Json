@@ -1,0 +1,37 @@
+[
+  {
+    "Sp�rgsm�l": " Hvor meget vand bruger den gennemsnitlige dansker om dagen?",
+    "hint": "I gennemsnit bruger hver dansker 105 liter vand om dagen. Forbruget er faldet de senere �r. For 20 �r siden brugte hver dansker i gennemsnit cirka 200 liter vand i d�gnet, viser data fra brancheorganisationen Danva. (Foto: Liselotte Sabroe/Ritzau Scanpix)",
+    "svarmuligheder": [ "105 liter", "505 liter", "55 liter" ],
+    "TrueAnswer": 0
+  },
+  {
+    "Sp�rgsm�l": "Hvor gammelt er vandet, vi tapper fra hanen?",
+    "hint": "Vores drikkevand er produceret fra grundvand. Det tager mange �r, f�r regnvand er sivet ned til grundvandet og bliver hentet op igen for at blive til drikkevand. Typisk er det if�lge Danmarks Naturfredningsforening 20 �r, hvilket betyder, at vandet i hanen faktisk faldt ned som regn for 20 �r siden.",
+    "Svarmuligheder": [ "1 �r", "20 �r", "10 �r" ],
+    "TrueAnswer": 1
+  },
+  {
+    "Sp�rgsm�l": "Hvor mange liter vand bruger vi typisk p� et brusebad p� 5 minutter?",
+    "hint": "Bolius skriver, at vi typisk bruger mellem 10 og 20 liter vand i minuttet under bruseren. Det betyder, at et fem minutters bad kan blive til 100 liter vand. Man kan reducere vandm�ngderne ved at installere en sparebruser eller en vandbegr�nser p� boligens vandhaner.",
+    "Svarmuligheder": [ "mellem 50 og 100 liter", " Mellem 5 & 10 liter", "Mellem 10 & 20 liter" ],
+    "TrueAnswer": 2
+  },
+  {
+    "Sp�rgsm�l": "Hvor meget vand l�ber ud af haveslangen p� et minut?",
+    "hint": "Haveslangen bruger 12 liter vand pr. minut. Undg� s� vidt muligt vanding om dagen, fordi vandet fordamper, f�r det n�r ned til planternes r�dder. Det er bedre at vande om aftenen, n�r solen ikke er fremme. (Henning Bagger/Ritzau Scanpix)",
+    "Svarmuligheder": [ "1 liter", "5 liter", "12 liter" ],
+    "TrueAnswer": 2
+  },
+  {
+    "Sp�rgsm�l": "Hvad bruger mest vand i hjemmet?",
+    "Svarmuligheder": [ "T�jvask", "Bad og hygiejne", "Toiletskyl" ],
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvor meget vand indeholder de store havepools?",
+    "hint": "Store havepools bruger rigtig meget vand. Der findes bassiner med en kapacitet p� mellem 40.000 og 50.000 liter. De st�rste bassiner bruger if�lge Bolius lige s� meget vand, som en enkelt dansker bruger p� et halvt �r. Man sparer derfor p� vandet ved at bruge et mindre badebassin eller helt flytte badeturen til stranden eller havnebassinet. (Foto: Keld Navntoft/Ritzau Scanpix)",
+    "Svarmuligheder": [ "40.000-50.000 liter", "5.000-10.000 liter", "60-120 liter" ],
+    "TrueAnswer": 0
+  }
+]

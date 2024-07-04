@@ -1,0 +1,112 @@
+[
+  {
+    "sp�rgsm�l": "Hvad er en variabel i C#?",
+    "svarmuligheder": [
+      "En statisk v�rdi der ikke kan �ndres",
+      "En container til at lagre data, som kan �ndres under programmets udf�relse",
+      "En type af loop",
+      "En funktion der kaldes af systemet automatisk"
+    ],
+    "hint": "Det er en container til at lagre data.",
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvad bruges en if-s�tning til i C#?",
+    "svarmuligheder": [
+      "At gentage en blok af kode flere gange",
+      "At teste en betingelse og udf�re en blok af kode hvis betingelsen er sand",
+      "At oprette en ny funktion",
+      "At definere en ny klasse"
+    ],
+    "hint": "Det bruges til betinget udf�relse af kode.",
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvad er en loop i C#?",
+    "svarmuligheder": [
+      "En funktion der kaldes af systemet automatisk",
+      "En metode til at gentage en blok af kode flere gange",
+      "En fejl i koden",
+      "En variabel der ikke kan �ndres"
+    ],
+    "hint": "Det bruges til at gentage kode.",
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvad er en metode i C#?",
+    "svarmuligheder": [
+      "En blok af kode der kan genbruges og udf�res n�r den kaldes",
+      "En variabel der ikke kan �ndres",
+      "En type af loop",
+      "En fejl i koden"
+    ],
+    "hint": "Det er en blok af kode der kan genbruges.",
+    "TrueAnswer": 0
+  },
+  {
+    "sp�rgsm�l": "Hvad bruges en for-loop til i C#?",
+    "svarmuligheder": [
+      "At teste en betingelse og udf�re en blok af kode hvis betingelsen er sand",
+      "At gentage en blok af kode et bestemt antal gange",
+      "At definere en ny klasse",
+      "At oprette en ny funktion"
+    ],
+    "hint": "Det er en type af loop.",
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvad er forskellen mellem en global og en lokal variabel i C#?",
+    "svarmuligheder": [
+      "En global variabel kan kun bruges inden for en metode, mens en lokal variabel kan bruges overalt i programmet",
+      "En global variabel kan bruges overalt i programmet, mens en lokal variabel kun kan bruges inden for den metode hvor den er defineret",
+      "De er begge det samme",
+      "En global variabel kan ikke �ndres, mens en lokal variabel kan"
+    ],
+    "hint": "T�nk p� r�kkevidden af variablerne.",
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvad er en klasse i C#?",
+    "svarmuligheder": [
+      "En variabel der ikke kan �ndres",
+      "En blok af kode der kan genbruges",
+      "En blueprint til at oprette objekter",
+      "En type af loop"
+    ],
+    "hint": "Det er en blueprint.",
+    "TrueAnswer": 2
+  },
+  {
+    "sp�rgsm�l": "Hvad bruges en constructor til i en klasse i C#?",
+    "svarmuligheder": [
+      "At oprette en ny metode",
+      "At initialisere objekter af klassen",
+      "At definere en ny variabel",
+      "At gentage en blok af kode"
+    ],
+    "hint": "Det bruges n�r et objekt af klassen oprettes.",
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvad er forskellen mellem en array og en liste i C#?",
+    "svarmuligheder": [
+      "En array har en fast st�rrelse, mens en liste kan �ndres i st�rrelse",
+      "En array kan kun indeholde heltal, mens en liste kan indeholde forskellige datatyper",
+      "En liste har en fast st�rrelse, mens en array kan �ndres i st�rrelse",
+      "En array kan kun bruges i metoder, mens en liste kan bruges overalt i programmet"
+    ],
+    "hint": "T�nk p� st�rrelsen af datastrukturerne.",
+    "TrueAnswer": 0
+  },
+  {
+    "sp�rgsm�l": "Hvad bruges 'using' direktivet til i C#?",
+    "svarmuligheder": [
+      "At inkludere navnerum i koden",
+      "At oprette en ny klasse",
+      "At definere en ny variabel",
+      "At gentage en blok af kode"
+    ],
+    "hint": "Det bruges til at inkludere eksterne biblioteker.",
+    "TrueAnswer": 0
+  }
+]

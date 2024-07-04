@@ -1,0 +1,112 @@
+[
+  {
+    "sp�rgsm�l": "Hvad er en prim�rn�gle i SQL?",
+    "svarmuligheder": [
+      "En n�gle der kan antage flere v�rdier",
+      "En n�gle der identificerer unikke r�kker i en tabel",
+      "En n�gle der kun kan bruges til l�seoperationer",
+      "En n�gle der refererer til en anden tabel"
+    ],
+    "hint": "Det bruges til at identificere unikke r�kker.",
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvad bruges en JOIN operation til i SQL?",
+    "svarmuligheder": [
+      "At kombinere r�kker fra to eller flere tabeller baseret p� en relateret kolonne mellem dem",
+      "At slette data fra en tabel",
+      "At oprette en ny database",
+      "At �ndre strukturen af en tabel"
+    ],
+    "hint": "Det er nyttigt, n�r du vil kombinere data fra flere tabeller.",
+    "TrueAnswer": 0
+  },
+  {
+    "sp�rgsm�l": "Hvad er forskellen mellem INNER JOIN og OUTER JOIN?",
+    "svarmuligheder": [
+      "INNER JOIN returnerer kun matchende r�kker, mens OUTER JOIN returnerer alle r�kker",
+      "INNER JOIN returnerer alle r�kker, mens OUTER JOIN returnerer kun matchende r�kker",
+      "De er begge det samme",
+      "INNER JOIN bruges kun til at kombinere to tabeller, mens OUTER JOIN kan kombinere flere tabeller"
+    ],
+    "hint": "T�nk p� hvilke r�kker der returneres.",
+    "TrueAnswer": 0
+  },
+  {
+    "sp�rgsm�l": "Hvad g�r SQL-kommandoen SELECT?",
+    "svarmuligheder": [
+      "Sletter data fra en tabel",
+      "Opdaterer data i en tabel",
+      "V�lger data fra en tabel",
+      "Opretter en ny tabel"
+    ],
+    "hint": "Det bruges til at hente data.",
+    "TrueAnswer": 2
+  },
+  {
+    "sp�rgsm�l": "Hvad er en fremmedn�gle i SQL?",
+    "svarmuligheder": [
+      "En n�gle der kan antage flere v�rdier",
+      "En n�gle der refererer til en prim�rn�gle i en anden tabel",
+      "En n�gle der kun kan bruges til l�seoperationer",
+      "En n�gle der identificerer unikke r�kker i en tabel"
+    ],
+    "hint": "Det bruges til at oprette relationer mellem tabeller.",
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvad bruges SQL-kommandoen INSERT INTO til?",
+    "svarmuligheder": [
+      "At opdatere data i en tabel",
+      "At slette data fra en tabel",
+      "At inds�tte nye r�kker i en tabel",
+      "At oprette en ny tabel"
+    ],
+    "hint": "Det bruges til at tilf�je nye data.",
+    "TrueAnswer": 2
+  },
+  {
+    "sp�rgsm�l": "Hvordan kan du �ndre strukturen af en eksisterende tabel i SQL?",
+    "svarmuligheder": [
+      "BRUG kommandoen",
+      "MODIFY kommandoen",
+      "CHANGE kommandoen",
+      "ALTER kommandoen"
+    ],
+    "hint": "Det er en almindelig SQL-kommando for at �ndre en tabel.",
+    "TrueAnswer": 3
+  },
+  {
+    "sp�rgsm�l": "Hvad g�r SQL-kommandoen DELETE?",
+    "svarmuligheder": [
+      "Sletter en tabel",
+      "Sletter r�kker fra en tabel",
+      "Opdaterer data i en tabel",
+      "Opretter en ny tabel"
+    ],
+    "hint": "Det bruges til at fjerne data.",
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvad er en unik begr�nsning i SQL?",
+    "svarmuligheder": [
+      "En begr�nsning der tillader dubletter i en kolonne",
+      "En begr�nsning der kr�ver unikke v�rdier i en kolonne",
+      "En begr�nsning der g�r en kolonne til en prim�rn�gle",
+      "En begr�nsning der g�r en kolonne til en fremmedn�gle"
+    ],
+    "hint": "Det sikrer, at alle v�rdier i kolonnen er forskellige.",
+    "TrueAnswer": 1
+  },
+  {
+    "sp�rgsm�l": "Hvad er SQL-kommandoen UPDATE brugt til?",
+    "svarmuligheder": [
+      "At opdatere eksisterende data i en tabel",
+      "At slette data fra en tabel",
+      "At inds�tte nye data i en tabel",
+      "At oprette en ny tabel"
+    ],
+    "hint": "Det bruges til at �ndre eksisterende data.",
+    "TrueAnswer": 0
+  }
+]
